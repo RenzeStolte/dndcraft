@@ -1,0 +1,37 @@
+{
+	id: "1305c7ef-16c6-42a7-9a12-fffc7cf9125c"
+	type: "party"
+	owner: "51b80796-617a-48f5-b164-1aa99b0ac0ad"
+	ranks: {
+		42ff4b3b-fd4b-41e9-b60d-980c2e14fc07: "member"
+		aee8df96-aeb0-4d22-917f-974464521360: "member"
+		51b80796-617a-48f5-b164-1aa99b0ac0ad: "owner"
+		c3111f63-b224-4b42-8a93-9e85f0dfe152: "member"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+		"ftbteams:display_name": "Mo Yaya"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9859FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1670784373805L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Slender_Fish\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "51b80796-617a-48f5-b164-1aa99b0ac0ad", date: 1670784381079L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Bannakaffalatta\"}]}" }
+		{ from: "51b80796-617a-48f5-b164-1aa99b0ac0ad", date: 1670785858813L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Bannakaffalatta\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1670785864584L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"Bannakaffalatta\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "51b80796-617a-48f5-b164-1aa99b0ac0ad", date: 1670789518826L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"iselinct\"}]}" }
+		{ from: "51b80796-617a-48f5-b164-1aa99b0ac0ad", date: 1670789518827L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"mr_engoy\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1670789523076L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"mr_engoy\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "51b80796-617a-48f5-b164-1aa99b0ac0ad", date: 1670790299430L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"iselinct\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1670790313559L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"iselinct\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

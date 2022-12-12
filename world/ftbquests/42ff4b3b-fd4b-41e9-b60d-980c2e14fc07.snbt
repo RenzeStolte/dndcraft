@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "42ff4b3bfd4b41e9b60d980c2e14fc07"
+	name: "mr_engoy"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
