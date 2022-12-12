@@ -1000,6 +1000,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2022-12-12 23:50:32 +0100"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/terminite_hammer": {
     "criteria": {
       "has_1_stick": "2022-12-11 21:15:55 +0100"
@@ -2332,6 +2338,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2022-12-12 23:50:34 +0100",
       "bread": "2022-12-11 21:21:29 +0100",
       "rotten_flesh": "2022-12-11 21:32:26 +0100"
     },
