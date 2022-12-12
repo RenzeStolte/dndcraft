@@ -2847,15 +2847,15 @@
     },
     "done": true
   },
-  "adorn:recipes/smooth_stone_platform": {
-    "criteria": {
-      "has_slab": "2022-12-11 22:21:55 +0100"
-    },
-    "done": true
-  },
   "twigs:recipes/twigs.item_group/bundled_bamboo": {
     "criteria": {
       "has_bamboo": "2022-12-11 22:16:05 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/smooth_stone_platform": {
+    "criteria": {
+      "has_slab": "2022-12-11 22:21:55 +0100"
     },
     "done": true
   },

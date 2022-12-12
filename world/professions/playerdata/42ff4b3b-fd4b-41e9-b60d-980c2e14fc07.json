@@ -37,7 +37,7 @@
       "prof": "professions:farming"
     },
     {
-      "exp": 12.0,
+      "exp": 15.0,
       "lvl": 1,
       "slot": "ACTIVE",
       "prof": "professions:logging"
@@ -55,7 +55,7 @@
       "prof": "professions:alchemy"
     },
     {
-      "exp": 60.5,
+      "exp": 60.0,
       "lvl": 1,
       "slot": "ACTIVE",
       "prof": "professions:building"
