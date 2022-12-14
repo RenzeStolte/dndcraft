@@ -470,6 +470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2022-12-14 19:48:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2022-12-13 20:40:23 +0100"
@@ -755,6 +761,12 @@
   "architects_palette:recipes/building_blocks/heavy_tuff_bricks": {
     "criteria": {
       "has_tuff": "2022-12-13 21:49:51 +0100"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/weeds": {
+    "criteria": {
+      "wheat": "2022-12-14 19:49:18 +0100"
     },
     "done": true
   },
@@ -2628,6 +2640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2022-12-14 20:05:18 +0100"
+    },
+    "done": true
+  },
   "architects_palette:recipes/building_blocks/plating_block": {
     "criteria": {
       "has_iron_ingot": "2022-12-11 21:27:05 +0100"
@@ -3941,6 +3959,12 @@
   "mcdw:recipes/shortbows/bow_love_spell_bow": {
     "criteria": {
       "has_base_bow": "2022-12-11 21:03:43 +0100"
+    },
+    "done": true
+  },
+  "adventurez:recipes/orc_skin_recipe": {
+    "criteria": {
+      "got_the_orc_skin": "2022-12-14 19:53:13 +0100"
     },
     "done": true
   },
