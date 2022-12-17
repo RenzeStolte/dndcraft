@@ -123,6 +123,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2022-12-17 23:30:55 +0100"
+    },
+    "done": true
+  },
   "vinery:basket": {
     "criteria": {
       "has_wheat": "2022-12-11 19:50:31 +0100"
@@ -327,6 +333,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp.everycomp/af/terrestria/rainbow_eucalyptus_shutter": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:05 +0100"
+    },
+    "done": true
+  },
   "twigs:recipes/twigs.item_group/smooth_basalt_brick_slab_from_smooth_basalt_from_stonecutting": {
     "criteria": {
       "has_smooth_basalt": "2022-12-13 20:36:43 +0100"
@@ -354,6 +366,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2022-12-11 21:05:57 +0100"
+    },
+    "done": true
+  },
+  "twigs:recipes/twigs.item_group/polished_rhyolite_from_stonecutting": {
+    "criteria": {
+      "has_rhyolite": "2022-12-17 23:40:06 +0100"
     },
     "done": true
   },
@@ -616,6 +634,12 @@
     },
     "done": true
   },
+  "terrestria:recipes/redstone/rainbow_eucalyptus_button": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:05 +0100"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/blossom_berry_jelly": {
     "criteria": {
       "has_tag_water_bottles": "2022-12-11 19:52:56 +0100"
@@ -709,6 +733,12 @@
   "betterend:recipes/decorations/dragon_tree_bookshelf": {
     "criteria": {
       "has_692_book": "2022-12-11 19:39:37 +0100"
+    },
+    "done": true
+  },
+  "terrestria:recipes/redstone/rainbow_eucalyptus_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:05 +0100"
     },
     "done": true
   },
@@ -832,6 +862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2022-12-17 23:39:46 +0100"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/stone_brick": {
     "criteria": {
       "has_copper_block": "2022-12-13 20:45:20 +0100"
@@ -850,6 +886,12 @@
     },
     "done": true
   },
+  "adorn:recipes/granite_post": {
+    "criteria": {
+      "has_granite": "2022-12-17 23:39:46 +0100"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_green_menace": {
     "criteria": {
       "has_iron_ingot": "2022-12-11 19:41:09 +0100"
@@ -859,6 +901,12 @@
   "betterend:recipes/decorations/helix_tree_fence": {
     "criteria": {
       "has_728_stick": "2022-12-11 19:50:48 +0100"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp.everycomp/db/terrestria/rainbow_eucalyptus_palisade": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:05 +0100"
     },
     "done": true
   },
@@ -877,6 +925,12 @@
   "architects_palette:recipes/misc/sunmetal_blend_shapeless": {
     "criteria": {
       "has_soul_sand": "2022-12-13 21:51:40 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/terrestria/hemlock_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:19 +0100"
     },
     "done": true
   },
@@ -1060,6 +1114,12 @@
     },
     "done": true
   },
+  "terrestria:recipes/building_blocks/hemlock_slab": {
+    "criteria": {
+      "has_hemlock_planks": "2022-12-17 23:40:19 +0100"
+    },
+    "done": true
+  },
   "adorn:recipes/spruce_table": {
     "criteria": {
       "has_slab": "2022-12-11 20:03:49 +0100"
@@ -1210,6 +1270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2022-12-17 23:39:46 +0100"
+    },
+    "done": true
+  },
   "immersive_weathering:immersive_weathering/crack_on": {
     "criteria": {
       "wax_off": "2022-12-13 20:45:20 +0100"
@@ -1234,6 +1300,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp.everycomp/af/terrestria/hemlock_shutter": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:19 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2022-12-11 20:48:18 +0100"
@@ -1255,6 +1327,12 @@
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2022-12-11 19:33:04 +0100"
+    },
+    "done": true
+  },
+  "terrestria:recipes/decorations/rainbow_eucalyptus_sign": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:05 +0100"
     },
     "done": true
   },
@@ -1339,6 +1417,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2022-12-11 21:01:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2022-12-17 23:53:33 +0100"
     },
     "done": true
   },
@@ -1444,6 +1528,18 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_0_obsidian": "2022-12-17 23:40:18 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/terrestria/rainbow_eucalyptus_post": {
+    "criteria": {
+      "has_rainbow_eucalyptus_planks": "2022-12-17 23:40:05 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2022-12-11 19:39:37 +0100"
@@ -1462,9 +1558,21 @@
     },
     "done": true
   },
+  "adorn:recipes/terrestria/rainbow_eucalyptus_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:05 +0100"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2022-12-11 19:33:04 +0100"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/obsidian_rod_tiles_stonecutting": {
+    "criteria": {
+      "has_0_obsidian": "2022-12-17 23:40:18 +0100"
     },
     "done": true
   },
@@ -1745,6 +1853,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_0_obsidian": "2022-12-17 23:40:18 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2022-12-11 21:05:57 +0100"
@@ -1754,6 +1868,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-12-13 20:57:12 +0100"
+    },
+    "done": true
+  },
+  "terrestria:recipes/building_blocks/rainbow_eucalyptus_slab": {
+    "criteria": {
+      "has_rainbow_eucalyptus_planks": "2022-12-17 23:40:05 +0100"
     },
     "done": true
   },
@@ -1823,6 +1943,18 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_0_obsidian": "2022-12-17 23:40:18 +0100"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp.everycomp/db/terrestria/hemlock_seat": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:19 +0100"
+    },
+    "done": true
+  },
   "mcdw:recipes/double_axes/axe_whirlwind": {
     "criteria": {
       "has_stick": "2022-12-11 19:50:48 +0100"
@@ -1850,6 +1982,12 @@
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2022-12-13 20:41:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2022-12-17 23:40:18 +0100"
     },
     "done": true
   },
@@ -1966,6 +2104,12 @@
     "criteria": {
       "has_17_diamond": "2022-12-11 20:05:47 +0100",
       "has_15_diamond": "2022-12-11 20:05:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2022-12-17 23:39:46 +0100"
     },
     "done": true
   },
@@ -2155,6 +2299,12 @@
     },
     "done": true
   },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2022-12-17 23:30:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2022-12-11 19:41:09 +0100"
@@ -2296,6 +2446,12 @@
   "everycomp:recipes/everycomp.everycomp/af/ecologics/walnut_shutter": {
     "criteria": {
       "has_planks": "2022-12-13 20:40:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2022-12-17 23:39:46 +0100"
     },
     "done": true
   },
@@ -2750,6 +2906,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp.everycomp/db/terrestria/rainbow_eucalyptus_seat": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:05 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/honey_cookie": {
     "criteria": {
       "has_honey_bottle": "2022-12-11 20:46:10 +0100"
@@ -2801,6 +2963,12 @@
   "betternether:recipes/decorations/jungle_bar_stool": {
     "criteria": {
       "has_248_stick": "2022-12-11 19:50:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2022-12-17 23:39:46 +0100"
     },
     "done": true
   },
@@ -2882,6 +3050,18 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_0_obsidian": "2022-12-17 23:40:18 +0100"
+    },
+    "done": true
+  },
+  "terrestria:recipes/redstone/hemlock_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:19 +0100"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_dual": {
     "criteria": {
       "has_stick": "2022-12-11 19:50:48 +0100"
@@ -2897,6 +3077,12 @@
   "adorn:recipes/spruce_chair": {
     "criteria": {
       "has_slab": "2022-12-11 20:03:49 +0100"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_0_obsidian": "2022-12-17 23:40:18 +0100"
     },
     "done": true
   },
@@ -2957,6 +3143,12 @@
   "architects_palette:recipes/building_blocks/emerald_ore_bricks": {
     "criteria": {
       "has_stone_bricks": "2022-12-13 20:41:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2022-12-17 23:40:18 +0100"
     },
     "done": true
   },
@@ -3050,6 +3242,12 @@
     },
     "done": true
   },
+  "adorn:recipes/terrestria/rainbow_eucalyptus_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:05 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2022-12-11 21:02:54 +0100"
@@ -3092,6 +3290,12 @@
     },
     "done": true
   },
+  "twigs:recipes/twigs.item_group/polished_rhyolite": {
+    "criteria": {
+      "has_rhyolite": "2022-12-17 23:40:06 +0100"
+    },
+    "done": true
+  },
   "architects_palette:recipes/building_blocks/lapis_ore_bricks": {
     "criteria": {
       "has_stone_bricks": "2022-12-13 20:41:57 +0100"
@@ -3114,6 +3318,12 @@
   "betternether:recipes/decorations/cincinnasite_bricks": {
     "criteria": {
       "has_1209_nether_brick": "2022-12-11 21:20:55 +0100"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp.everycomp/db/terrestria/rainbow_eucalyptus_support": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:05 +0100"
     },
     "done": true
   },
@@ -3183,6 +3393,18 @@
     },
     "done": true
   },
+  "terrestria:recipes/building_blocks/hemlock_stairs": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2022-12-17 23:39:46 +0100"
+    },
+    "done": true
+  },
   "bwplus:hidden_unlocks/ectoplasm": {
     "criteria": {
       "has_item": "2022-12-11 19:33:04 +0100"
@@ -3243,9 +3465,21 @@
     },
     "done": true
   },
+  "twigs:recipes/twigs.item_group/rhyolite_slab_from_stonecutting": {
+    "criteria": {
+      "has_rhyolite": "2022-12-17 23:40:06 +0100"
+    },
+    "done": true
+  },
   "mythicmetals:orichalcum": {
     "criteria": {
       "orich": "2022-12-11 22:31:58 +0100"
+    },
+    "done": true
+  },
+  "twigs:recipes/twigs.item_group/rhyolite_stairs_from_stonecutting": {
+    "criteria": {
+      "has_rhyolite": "2022-12-17 23:40:06 +0100"
     },
     "done": true
   },
@@ -3676,6 +3910,12 @@
     },
     "done": true
   },
+  "terrestria:recipes/decorations/rainbow_eucalyptus_fence": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:05 +0100"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest.twilightforest/iron_ladder": {
     "criteria": {
       "has_iron_bars": "2022-12-11 19:58:41 +0100"
@@ -3697,6 +3937,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2022-12-11 21:20:56 +0100"
+    },
+    "done": true
+  },
+  "terrestria:recipes/redstone/rainbow_eucalyptus_pressure_plate": {
+    "criteria": {
+      "has_rainbow_eucalyptus_planks": "2022-12-17 23:40:05 +0100"
     },
     "done": true
   },
@@ -3727,6 +3973,12 @@
   "betternether:recipes/decorations/mushroom_fir_bookshelf": {
     "criteria": {
       "has_315_book": "2022-12-11 19:39:37 +0100"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp.everycomp/db/terrestria/hemlock_beam": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:19 +0100"
     },
     "done": true
   },
@@ -4072,6 +4324,12 @@
     },
     "done": true
   },
+  "terrestria:recipes/redstone/rainbow_eucalyptus_door": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:05 +0100"
+    },
+    "done": true
+  },
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "ghoul": "2022-12-11 19:47:59 +0100"
@@ -4102,6 +4360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2022-12-17 23:30:55 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/melon_popsicle": {
     "criteria": {
       "has_melon": "2022-12-11 20:09:21 +0100"
@@ -4116,7 +4380,8 @@
       "minecraft:spider": "2022-12-11 20:25:31 +0100",
       "minecraft:witch": "2022-12-11 20:45:16 +0100",
       "minecraft:enderman": "2022-12-11 21:07:26 +0100",
-      "minecraft:zombie": "2022-12-11 19:47:46 +0100"
+      "minecraft:zombie": "2022-12-11 19:47:46 +0100",
+      "minecraft:zombie_villager": "2022-12-17 23:52:49 +0100"
     },
     "done": false
   },
@@ -4162,6 +4427,12 @@
     },
     "done": true
   },
+  "terrestria:recipes/building_blocks/rainbow_eucalyptus_stairs": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:05 +0100"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/stalagnate_taburet": {
     "criteria": {
       "has_104_stick": "2022-12-11 19:50:48 +0100"
@@ -4198,6 +4469,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/deepslate_tile": {
+    "criteria": {
+      "has_copper_block": "2022-12-17 23:56:18 +0100"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/spruce_chair": {
     "criteria": {
       "has_228_stick": "2022-12-11 19:50:48 +0100"
@@ -4223,6 +4500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2022-12-17 23:39:46 +0100"
+    },
+    "done": true
+  },
   "mcdw:recipes/staves/staff_battlestaff": {
     "criteria": {
       "has_stick": "2022-12-11 19:50:48 +0100"
@@ -4244,6 +4527,12 @@
   "betterend:recipes/decorations/thallasium_sword_handle": {
     "criteria": {
       "has_1_stick": "2022-12-11 19:50:49 +0100"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp.everycomp/ap/terrestria/rainbow_eucalyptus_boards": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:05 +0100"
     },
     "done": true
   },
@@ -4313,6 +4602,12 @@
     },
     "done": true
   },
+  "twigs:recipes/twigs.item_group/polished_rhyolite_stairs_from_rhyolite_from_stonecutting": {
+    "criteria": {
+      "has_rhyolite": "2022-12-17 23:40:06 +0100"
+    },
+    "done": true
+  },
   "twigs:recipes/twigs.item_group/rhyolite": {
     "criteria": {
       "has_quartz": "2022-12-11 20:06:22 +0100"
@@ -4322,6 +4617,12 @@
   "mcdw:recipes/swords/sword_broken_sawblade": {
     "criteria": {
       "has_gold_ingot": "2022-12-11 20:48:18 +0100"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp.everycomp/tw/terrestria/rainbow_eucalyptus_table": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:05 +0100"
     },
     "done": true
   },
@@ -4364,6 +4665,12 @@
   "xps:recipes/soul_copper_blend": {
     "criteria": {
       "has_soul_sand": "2022-12-13 21:51:40 +0100"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_obsidian_claymore": {
+    "criteria": {
+      "has_obsidian": "2022-12-17 23:40:18 +0100"
     },
     "done": true
   },
@@ -4442,6 +4749,12 @@
   "betterend:recipes/decorations/end_lotus_sign": {
     "criteria": {
       "has_635_stick": "2022-12-11 19:50:48 +0100"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/obsidian_witch_altar": {
+    "criteria": {
+      "has_item": "2022-12-17 23:40:18 +0100"
     },
     "done": true
   },
@@ -4655,6 +4968,12 @@
     },
     "done": true
   },
+  "architects_palette:recipes/building_blocks/abyssaline_lamp": {
+    "criteria": {
+      "has_obsidian": "2022-12-17 23:40:18 +0100"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/golden_candelabra": {
     "criteria": {
       "has_item": "2022-12-11 20:48:18 +0100"
@@ -4781,6 +5100,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/obsidian_glass": {
+    "criteria": {
+      "has_34_obsidian": "2022-12-17 23:40:18 +0100"
+    },
+    "done": true
+  },
   "arcanus:spell_books/discombobulate": {
     "criteria": {
       "has_spell_books": "2022-12-11 19:39:57 +0100"
@@ -4890,6 +5215,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp.everycomp/db/terrestria/hemlock_palisade": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:19 +0100"
+    },
+    "done": true
+  },
   "twigs:recipes/twigs.item_group/polished_tuff": {
     "criteria": {
       "has_tuff": "2022-12-11 21:35:53 +0100"
@@ -4956,6 +5287,12 @@
     },
     "done": true
   },
+  "twigs:recipes/twigs.item_group/rhyolite_wall_from_stonecutting": {
+    "criteria": {
+      "has_rhyolite": "2022-12-17 23:40:06 +0100"
+    },
+    "done": true
+  },
   "twigs:recipes/twigs.item_group/polished_calcite_brick_wall_from_calcite_from_stonecutting": {
     "criteria": {
       "has_calcite": "2022-12-13 20:41:08 +0100"
@@ -4984,6 +5321,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2022-12-13 20:41:58 +0100"
+    },
+    "done": true
+  },
+  "terrestria:recipes/redstone/hemlock_button": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:19 +0100"
     },
     "done": true
   },
@@ -5101,6 +5444,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp.everycomp/tw/terrestria/hemlock_table": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:19 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-12-11 21:09:17 +0100"
@@ -5125,9 +5474,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp.everycomp/db/terrestria/rainbow_eucalyptus_beam": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:05 +0100"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_bookshelf": {
     "criteria": {
       "has_64_book": "2022-12-11 19:39:37 +0100"
+    },
+    "done": true
+  },
+  "twigs:recipes/twigs.item_group/polished_rhyolite_brick_slab_from_rhyolite_from_stonecutting": {
+    "criteria": {
+      "has_rhyolite": "2022-12-17 23:40:06 +0100"
     },
     "done": true
   },
@@ -5164,6 +5525,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-12-11 21:09:17 +0100"
+    },
+    "done": true
+  },
+  "twigs:recipes/twigs.item_group/polished_rhyolite_slab_from_rhyolite_from_stonecutting": {
+    "criteria": {
+      "has_rhyolite": "2022-12-17 23:40:06 +0100"
     },
     "done": true
   },
@@ -5306,6 +5673,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_0_obsidian": "2022-12-17 23:40:18 +0100"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_heavy": {
     "criteria": {
       "has_iron_ingot": "2022-12-11 19:41:09 +0100"
@@ -5426,6 +5799,12 @@
     },
     "done": true
   },
+  "twigs:recipes/twigs.item_group/rhyolite_wall": {
+    "criteria": {
+      "has_rhyolite": "2022-12-17 23:40:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2022-12-11 19:41:09 +0100"
@@ -5459,6 +5838,18 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2022-12-11 22:05:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2022-12-17 23:39:46 +0100"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/obsidian_tile": {
+    "criteria": {
+      "has_1250_obsidian": "2022-12-17 23:40:18 +0100"
     },
     "done": true
   },
@@ -5569,6 +5960,18 @@
     },
     "done": true
   },
+  "adorn:recipes/terrestria/hemlock_post": {
+    "criteria": {
+      "has_hemlock_planks": "2022-12-17 23:40:19 +0100"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp.everycomp/db/terrestria/hemlock_support": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:19 +0100"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/willow_sign": {
     "criteria": {
       "has_130_stick": "2022-12-11 19:50:48 +0100"
@@ -5641,6 +6044,12 @@
     },
     "done": true
   },
+  "terrestria:recipes/decorations/hemlock_sign": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:19 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2022-12-11 20:06:22 +0100"
@@ -5662,6 +6071,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2022-12-13 20:58:58 +0100"
+    },
+    "done": true
+  },
+  "terrestria:recipes/redstone/rainbow_eucalyptus_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:05 +0100"
     },
     "done": true
   },
@@ -5734,6 +6149,12 @@
   "twigs:recipes/twigs.item_group/polished_calcite_from_stonecutting": {
     "criteria": {
       "has_calcite": "2022-12-13 20:41:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2022-12-17 23:40:18 +0100"
     },
     "done": true
   },
@@ -5869,6 +6290,18 @@
     },
     "done": true
   },
+  "dehydration:copper_recipes": {
+    "criteria": {
+      "got_the_copper_for_dehydration": "2022-12-17 23:30:55 +0100"
+    },
+    "done": true
+  },
+  "architects_palette:recipes/building_blocks/abyssaline": {
+    "criteria": {
+      "has_obsidian": "2022-12-17 23:40:18 +0100"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/rubeus_gate": {
     "criteria": {
       "has_267_stick": "2022-12-11 19:50:48 +0100"
@@ -5902,6 +6335,18 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2022-12-11 21:35:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2022-12-17 23:30:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2022-12-17 23:39:46 +0100"
     },
     "done": true
   },
@@ -6043,6 +6488,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2022-12-17 23:39:46 +0100"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/umbrella_tree_fence": {
     "criteria": {
       "has_754_stick": "2022-12-11 19:50:48 +0100"
@@ -6052,6 +6503,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2022-12-11 19:48:16 +0100"
+    },
+    "done": true
+  },
+  "terrestria:recipes/redstone/hemlock_pressure_plate": {
+    "criteria": {
+      "has_hemlock_planks": "2022-12-17 23:40:19 +0100"
     },
     "done": true
   },
@@ -6218,6 +6675,24 @@
     },
     "done": true
   },
+  "terrestria:recipes/decorations/hemlock_fence": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:19 +0100"
+    },
+    "done": true
+  },
+  "terrestria:recipes/redstone/hemlock_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:19 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/terrestria/hemlock_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:19 +0100"
+    },
+    "done": true
+  },
   "twigs:recipes/twigs.item_group/bloodstone": {
     "criteria": {
       "has_quartz": "2022-12-11 20:06:22 +0100"
@@ -6320,6 +6795,12 @@
     },
     "done": true
   },
+  "adorn:recipes/terrestria/rainbow_eucalyptus_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:05 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2022-12-11 19:48:00 +0100"
@@ -6392,6 +6873,12 @@
     },
     "done": true
   },
+  "terrestria:recipes/redstone/hemlock_door": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:19 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-12-11 21:09:17 +0100"
@@ -6431,6 +6918,12 @@
   "vinery:dough": {
     "criteria": {
       "has_wheat": "2022-12-11 19:50:31 +0100"
+    },
+    "done": true
+  },
+  "twigs:recipes/twigs.item_group/polished_rhyolite_brick_stairs_from_rhyolite_from_stonecutting": {
+    "criteria": {
+      "has_rhyolite": "2022-12-17 23:40:06 +0100"
     },
     "done": true
   },
@@ -6644,6 +7137,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/chandelier": {
+    "criteria": {
+      "has_copper_ingot": "2022-12-17 23:30:55 +0100"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/torch_from_chandelier": {
     "criteria": {
       "has_torch": "2022-12-11 19:45:32 +0100"
@@ -6758,9 +7257,21 @@
     },
     "done": true
   },
+  "twigs:recipes/twigs.item_group/rhyolite_stairs": {
+    "criteria": {
+      "has_rhyolite": "2022-12-17 23:40:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2022-12-11 20:59:08 +0100"
+    },
+    "done": true
+  },
+  "mythicmetals:carmot": {
+    "criteria": {
+      "gygrid": "2022-12-17 23:57:30 +0100"
     },
     "done": true
   },
@@ -6860,6 +7371,12 @@
     },
     "done": true
   },
+  "twigs:recipes/twigs.item_group/polished_rhyolite_brick_wall_from_rhyolite_from_stonecutting": {
+    "criteria": {
+      "has_rhyolite": "2022-12-17 23:40:06 +0100"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/stalagnate_bar_stool": {
     "criteria": {
       "has_108_stick": "2022-12-11 19:50:48 +0100"
@@ -6881,6 +7398,12 @@
   "mcdw:recipes/spears/spear_spear": {
     "criteria": {
       "has_stick": "2022-12-11 19:50:48 +0100"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp.everycomp/ap/terrestria/hemlock_boards": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:19 +0100"
     },
     "done": true
   },
@@ -6911,6 +7434,12 @@
   "things:infernal_scepter": {
     "criteria": {
       "infernal_scepter": "2022-12-11 19:39:11 +0100"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_0_obsidian": "2022-12-17 23:40:18 +0100"
     },
     "done": true
   },
@@ -7013,6 +7542,18 @@
   "farmersdelight:recipes/farmersdelight/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2022-12-11 21:57:01 +0100"
+    },
+    "done": true
+  },
+  "twigs:recipes/twigs.item_group/rhyolite_slab": {
+    "criteria": {
+      "has_rhyolite": "2022-12-17 23:40:06 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/terrestria/hemlock_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2022-12-17 23:40:19 +0100"
     },
     "done": true
   },
