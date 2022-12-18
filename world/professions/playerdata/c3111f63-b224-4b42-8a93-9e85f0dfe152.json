@@ -13,8 +13,8 @@
       "prof": "professions:trading"
     },
     {
-      "exp": 739.0,
-      "lvl": 3,
+      "exp": 412.0,
+      "lvl": 4,
       "slot": "ACTIVE",
       "prof": "professions:hunting"
     },
@@ -37,13 +37,13 @@
       "prof": "professions:farming"
     },
     {
-      "exp": 8.0,
+      "exp": 36.0,
       "lvl": 1,
       "slot": "ACTIVE",
       "prof": "professions:logging"
     },
     {
-      "exp": 157.0,
+      "exp": 199.0,
       "lvl": 1,
       "slot": "ACTIVE",
       "prof": "professions:mining"
@@ -55,13 +55,13 @@
       "prof": "professions:alchemy"
     },
     {
-      "exp": 3.3,
+      "exp": 223.50000000000065,
       "lvl": 1,
       "slot": "ACTIVE",
       "prof": "professions:building"
     },
     {
-      "exp": 3.0,
+      "exp": 25.0,
       "lvl": 1,
       "slot": "ACTIVE",
       "prof": "professions:smithing"
