@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2023-01-12 21:20:36 +0100"
+    },
+    "done": true
+  },
   "adorn:recipes/dark_oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2023-01-12 19:14:08 +0100"
@@ -126,6 +132,12 @@
   "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_smoking": {
     "criteria": {
       "cooked_mutton_chops": "2022-12-11 20:09:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2023-01-12 21:45:14 +0100"
     },
     "done": true
   },
@@ -471,6 +483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2023-01-12 21:45:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2022-12-11 21:05:57 +0100"
@@ -565,6 +583,12 @@
     "criteria": {
       "has_quartz": "2022-12-11 20:06:22 +0100",
       "has_the_recipe": "2022-12-11 20:06:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2023-01-12 21:20:05 +0100"
     },
     "done": true
   },
@@ -700,6 +724,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_suns_grace": {
+    "criteria": {
+      "has_gold_block": "2023-01-12 21:21:31 +0100"
+    },
+    "done": true
+  },
   "mcdw:recipes/soul_daggers/sword_truthseeker": {
     "criteria": {
       "has_diamond": "2022-12-11 20:05:47 +0100"
@@ -802,6 +832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2023-01-12 21:50:06 +0100"
+    },
+    "done": true
+  },
   "xps:recipes/xp_dust_smoker": {
     "criteria": {
       "has_enchanted_book": "2022-12-11 22:07:00 +0100"
@@ -862,6 +898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2023-01-12 21:17:44 +0100"
+    },
+    "done": true
+  },
   "mcdw:recipes/axes/axe_axe": {
     "criteria": {
       "has_iron_axe": "2022-12-11 19:41:08 +0100"
@@ -913,6 +955,12 @@
   "betternether:recipes/decorations/nether_reed_fence": {
     "criteria": {
       "has_48_stick": "2022-12-11 19:50:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2023-01-12 21:21:31 +0100"
     },
     "done": true
   },
@@ -1270,6 +1318,12 @@
     },
     "done": true
   },
+  "immersive_weathering:immersive_weathering/weeds": {
+    "criteria": {
+      "wheat": "2023-01-12 21:23:33 +0100"
+    },
+    "done": true
+  },
   "adorn:recipes/brown_table_lamp": {
     "criteria": {
       "has_carpet": "2022-12-18 20:30:10 +0100"
@@ -1417,6 +1471,12 @@
   "betterend:recipes/decorations/lacugrove_ladder": {
     "criteria": {
       "has_659_stick": "2022-12-11 19:50:48 +0100"
+    },
+    "done": true
+  },
+  "mcdw:recipes/gauntlets/gauntlet_gauntlets": {
+    "criteria": {
+      "has_leather": "2023-01-12 21:45:14 +0100"
     },
     "done": true
   },
@@ -1588,6 +1648,12 @@
     },
     "done": true
   },
+  "architects_palette:recipes/building_blocks/flint_block": {
+    "criteria": {
+      "has_flint": "2023-01-12 21:50:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2022-12-11 22:04:57 +0100"
@@ -1711,6 +1777,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2022-12-11 21:57:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2023-01-12 21:20:43 +0100"
     },
     "done": true
   },
@@ -1891,6 +1963,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2023-01-12 19:41:03 +0100"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2023-01-12 21:46:19 +0100"
     },
     "done": true
   },
@@ -2349,6 +2427,12 @@
   "everycomp:recipes/everycomp.everycomp/db/ecologics/walnut_palisade": {
     "criteria": {
       "has_planks": "2022-12-13 20:40:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2023-01-12 21:20:20 +0100"
     },
     "done": true
   },
@@ -2863,6 +2947,12 @@
     },
     "done": true
   },
+  "arcanus:spell_books/magic_missile": {
+    "criteria": {
+      "has_spell_books": "2023-01-12 21:37:51 +0100"
+    },
+    "done": true
+  },
   "architects_palette:recipes/building_blocks/gold_ore_bricks": {
     "criteria": {
       "has_stone_bricks": "2022-12-13 20:41:57 +0100"
@@ -2935,9 +3025,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2023-01-12 21:45:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-12-18 21:39:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_cut_copper": "2023-01-12 21:17:44 +0100"
     },
     "done": true
   },
@@ -2956,6 +3058,18 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2022-12-13 21:42:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab": {
+    "criteria": {
+      "has_cut_copper": "2023-01-12 21:20:20 +0100"
+    },
+    "done": true
+  },
+  "vinery:white_grape_crate": {
+    "criteria": {
+      "has_white_grape": "2023-01-12 20:54:37 +0100"
     },
     "done": true
   },
@@ -3109,6 +3223,12 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/leather_to_stripes": {
+    "criteria": {
+      "has_1108_leather": "2023-01-12 21:45:14 +0100"
+    },
+    "done": true
+  },
   "adorn:recipes/stone_rod": {
     "criteria": {
       "has_stone": "2022-12-11 21:02:54 +0100"
@@ -3217,6 +3337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2023-01-12 21:17:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-12-13 20:57:12 +0100"
@@ -3311,6 +3437,12 @@
   "vinery:grass_slab": {
     "criteria": {
       "has_grass_block": "2022-12-11 21:07:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2023-01-12 21:20:43 +0100"
     },
     "done": true
   },
@@ -3650,6 +3782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2023-01-12 21:45:14 +0100"
+    },
+    "done": true
+  },
   "architects_palette:recipes/building_blocks/coal_ore_bricks": {
     "criteria": {
       "has_stone_bricks": "2022-12-13 20:41:57 +0100"
@@ -3709,6 +3847,13 @@
       "has_tag_iron_ingots": "2022-12-11 19:41:10 +0100"
     },
     "done": true
+  },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:allium_fields": "2023-01-12 20:43:08 +0100",
+      "byg:aspen_forest": "2023-01-12 20:43:07 +0100"
+    },
+    "done": false
   },
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
@@ -3849,6 +3994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2023-01-12 21:46:19 +0100"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/gold_chandelier": {
     "criteria": {
       "has_1118_gold_ingot": "2022-12-11 20:48:18 +0100"
@@ -3876,6 +4027,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2022-12-11 22:05:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper": "2023-01-12 21:20:20 +0100"
     },
     "done": true
   },
@@ -4032,6 +4189,12 @@
   "betterend:recipes/decorations/terminite_pickaxe": {
     "criteria": {
       "has_1_stick": "2022-12-11 19:50:48 +0100"
+    },
+    "done": true
+  },
+  "edenring:recipes/decorations/volvox_block_dense": {
+    "criteria": {
+      "has_1389_volvox_block": "2023-01-12 21:56:18 +0100"
     },
     "done": true
   },
@@ -4249,6 +4412,12 @@
   "twigs:recipes/twigs.item_group/dark_oak_table": {
     "criteria": {
       "has_dark_oak_planks": "2023-01-12 19:14:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-01-12 21:20:05 +0100"
     },
     "done": true
   },
@@ -4763,6 +4932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2023-01-12 20:35:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2022-12-11 20:48:18 +0100"
@@ -4772,6 +4947,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2022-12-13 20:41:58 +0100"
+    },
+    "done": true
+  },
+  "dehydration:leather_recipes": {
+    "criteria": {
+      "got_the_leather_for_dehydration": "2023-01-12 21:45:14 +0100"
     },
     "done": true
   },
@@ -5039,9 +5220,11 @@
       "minecraft:skeleton": "2022-12-11 19:47:53 +0100",
       "minecraft:vindicator": "2022-12-11 20:07:14 +0100",
       "minecraft:spider": "2022-12-11 20:25:31 +0100",
+      "minecraft:piglin_brute": "2023-01-12 20:35:20 +0100",
       "minecraft:creeper": "2022-12-18 20:43:37 +0100",
       "minecraft:witch": "2022-12-11 20:45:16 +0100",
       "minecraft:wither_skeleton": "2023-01-12 19:20:37 +0100",
+      "minecraft:piglin": "2023-01-12 20:34:49 +0100",
       "minecraft:enderman": "2022-12-11 21:07:26 +0100",
       "minecraft:silverfish": "2023-01-12 19:35:51 +0100",
       "minecraft:stray": "2023-01-12 19:27:40 +0100",
@@ -5071,6 +5254,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2022-12-11 20:31:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2023-01-12 21:27:50 +0100"
     },
     "done": true
   },
@@ -5705,6 +5894,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2023-01-12 20:41:31 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2022-12-11 19:48:00 +0100"
@@ -6039,12 +6234,14 @@
       "minecraft:beach": "2022-12-11 19:59:35 +0100",
       "minecraft:sparse_jungle": "2023-01-12 18:53:46 +0100",
       "minecraft:river": "2022-12-11 19:58:31 +0100",
+      "minecraft:stony_shore": "2023-01-12 21:14:45 +0100",
       "minecraft:forest": "2022-12-11 22:04:53 +0100",
       "minecraft:ocean": "2022-12-11 19:59:41 +0100",
       "minecraft:jungle": "2023-01-12 18:59:40 +0100",
       "wilderwild:mixed_forest": "2023-01-12 19:59:17 +0100",
       "minecraft:flower_forest": "2022-12-11 20:39:53 +0100",
       "minecraft:old_growth_birch_forest": "2023-01-12 19:59:31 +0100",
+      "minecraft:meadow": "2023-01-12 20:55:44 +0100",
       "minecraft:savanna": "2022-12-18 20:44:45 +0100",
       "minecraft:plains": "2022-12-11 19:37:37 +0100"
     },
@@ -6147,6 +6344,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2023-01-12 21:20:05 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2022-12-11 20:49:39 +0100"
@@ -6162,6 +6365,12 @@
   "edenring:recipes/decorations/auritis_bookshelf": {
     "criteria": {
       "has_1280_book": "2022-12-11 19:39:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2023-01-12 21:45:14 +0100"
     },
     "done": true
   },
@@ -6381,6 +6590,12 @@
     },
     "done": true
   },
+  "edenring:recipes/decorations/slime_ball": {
+    "criteria": {
+      "has_37_volvox_block": "2023-01-12 21:56:18 +0100"
+    },
+    "done": true
+  },
   "bewitchment:recipes/misc/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_item": "2022-12-11 21:39:17 +0100"
@@ -6409,6 +6624,12 @@
   "archon:learn_spell": {
     "criteria": {
       "spell": "2022-12-11 22:25:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2023-01-12 21:20:43 +0100"
     },
     "done": true
   },
@@ -6694,6 +6915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-01-12 21:20:05 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2022-12-11 19:41:09 +0100"
@@ -6939,6 +7166,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2023-01-12 20:34:34 +0100"
+    },
+    "done": true
+  },
   "edenring:recipes/decorations/gravity_compressor": {
     "criteria": {
       "has_tag_iron_ingots": "2022-12-11 19:41:09 +0100"
@@ -6948,6 +7181,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2022-12-11 19:50:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2023-01-12 21:45:14 +0100"
     },
     "done": true
   },
@@ -7071,6 +7310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs": {
+    "criteria": {
+      "has_cut_copper": "2023-01-12 21:20:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2022-12-11 19:45:50 +0100"
@@ -7083,9 +7328,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-01-12 21:20:05 +0100"
+    },
+    "done": true
+  },
   "mcdw:recipes/soul_daggers/dagger_soul_knife": {
     "criteria": {
       "has_soul_sand": "2022-12-13 21:51:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2023-01-12 21:20:43 +0100"
     },
     "done": true
   },
@@ -7467,6 +7724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2023-01-12 21:20:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-12-17 23:39:46 +0100"
@@ -7494,6 +7757,12 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2022-12-18 20:57:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2023-01-12 21:46:19 +0100"
     },
     "done": true
   },
@@ -7711,6 +7980,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2023-01-12 18:59:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2023-01-12 21:20:05 +0100"
     },
     "done": true
   },
@@ -7939,6 +8214,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-12-11 21:35:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2023-01-12 21:20:43 +0100"
     },
     "done": true
   },
@@ -8473,6 +8754,12 @@
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2022-12-11 20:46:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_cut_copper": "2023-01-12 21:17:44 +0100"
     },
     "done": true
   },
