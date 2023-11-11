@@ -1,3 +1,5 @@
 *
 !world/*
 !.gitignore
+!Skyfactory4
+!Skyfactory4/**
